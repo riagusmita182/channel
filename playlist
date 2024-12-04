@@ -1,4 +1,8 @@
-
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="Indonesia TV",ANTV 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
@@ -51,10 +55,6 @@ https://cdn11jtedge.indihometv.com/atm/hlsv3/trans7/trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="Indonesia TV",Transtv
 https://cdn11jtedge.indihometv.com/atm/hlsv3/transtv/transtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="Indonesia TV",ANTV
-https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-https://cdn09jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV.m3u8
 
 ======================================== CARTOON ==============================================
 
