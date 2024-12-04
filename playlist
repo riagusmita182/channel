@@ -55,6 +55,9 @@ https://cdn11jtedge.indihometv.com/atm/hlsv3/transtv/transtv.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="NASIONAL",ANTV
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="Indonesia TV",ANTV
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+
 ======================================== CARTOON ==============================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
