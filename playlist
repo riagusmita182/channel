@@ -52,9 +52,8 @@ https://cdn11jtedge.indihometv.com/atm/hlsv3/trans7/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="Indonesia TV",Transtv
 https://cdn11jtedge.indihometv.com/atm/hlsv3/transtv/transtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="Indonesia TV",ANTV
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="NASIONAL",ANTV
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-https://cdn09jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV.m3u8
 
 ======================================== CARTOON ==============================================
 
