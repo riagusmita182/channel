@@ -12,15 +12,13 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="Indonesia TV",Indosiar
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia TV",Indosiar
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="Indonesia TV",Indosiar (Live Bola)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="Indonesia TV",Mentari
-https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
+https://kametv.my.id/pdx/play.mpd?id=17624
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
@@ -44,12 +42,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="Indonesia TV",RTV
-http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="Indonesia TV",RTV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="Indonesia TV",RTV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZq1hBDD/SCTV-1.png" group-title="Indonesia TV",SCTV
@@ -93,19 +90,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png" group-title="Indonesia TV",Animax
 https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 group-title="Indonesia TV"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",Cartoon Network
-https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia TV"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",Fun Planet
-https://cdn09jtedge.indihometv.com/atm/hlsv3/indikids/indikids.m3u8
-https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u
-
-#EXTINF:-1 tvg-name="" tvg-id="Horee" tvg-logo="https://images.indihometv.com/logo_horee_ver1.png" group-title="Indonesia TV",HOREE
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/14106
-
-#EXTINF:-1 group-title="Indonesia TV"  tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",Nick Jr (IH)
-https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
-
 #EXTINF:-1 tvg-id="616.astro" tvg-logo="https://iili.io/JmoBluj.png" group-title="Indonesia TV",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
@@ -129,14 +113,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
 ======================================= SPORT ===================================================
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="Indonesia TV",Soccer Channel (V+)
+#EXTINF:-1 group-title="Indonesia TV" tvg-id="soccerchannel.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="Indonesia TV",Sportstars 1 (V+)
+#EXTINF:-1 group-title="Indonesia TV" tvg-id="sportstars.id" tvg-logo="https://dl.dropbox.com/scl/fi/dh9so1893o9dwcfie1tir/sportstar.png?rlkey=tolkdvuzeqqtw6zgo2seq287p&dl=0",Sportstars
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -154,16 +142,10 @@ EXTINF:-1 group-title="Indonesia TV" tvg-id="" tvg-url="" tvg-logo="https://raw.
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 group-title="Indonesia TV"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV (IH)
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png" group-title="Indonesia TV",SPOTV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTINF:-1 group-title="Indonesia TV"  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",SPOTV 2 (IH)
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -207,14 +189,11 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 ====================================== NEWS =====================================================
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="Indonesia TV",Antara TV
-https://cdn13jtedge.indihometv.com/atm/hlsv3/antara/antara.m3u8
-
 #EXTINF:-1 group-title="Indonesia TV"  tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA
-https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="Indonesia TV"  tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INDONESIA
-https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
@@ -222,7 +201,7 @@ https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="Indonesia TV",Kompas TV
-https://cdn09jtedge.indihometv.com/atm/hlsv3/KOMPAS_TV/KOMPAS_TV.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhT7gvc2/metrotv-1.png" group-title="Indonesia TV",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w1044588355_b1128000_sleng.m3u8
@@ -250,15 +229,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/651/651-LOGO-m.png" group-title="Indonesia TV",Love Nature (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png" group-title="Indonesia TV",Animal Planet (FMX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="Indonesia TV",Discovery Asia (FMX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 ======================================= MOVIES =================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -349,12 +319,12 @@ https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/Fast%20%26%20F
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast9.png" group-title="🔴UPDATE FILM",Furious 7 2015
 https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/Furious%207%202015.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" group-title="FILM REQUEST", The Fate Of The Furious 2017
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" group-title="🔴UPDATE FILM", The Fate Of The Furious 2017
 https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/The%20Fate%20of%20the%20Furious%202017.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.drakor.in/gambar/Rrmfxr2x.jpg" group-title="FILM REQUEST",F9 Fast and Furious 9 : The Fast Saga 2021
+#EXTINF:-1 tvg-logo="https://cdn.drakor.in/gambar/Rrmfxr2x.jpg" group-title="🔴UPDATE FILM",F9 Fast and Furious 9 : The Fast Saga 2021
 https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/F9%20The%20Fast%20Saga%202021.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/fashion-jobs.biz/wp-content/uploads/2023/05/1E5baAaEse26fej7uHcjOgEE2t2.jpg" group-title="FILM REQUEST",Fast X 2023
+#EXTINF:-1 tvg-logo="https://i0.wp.com/fashion-jobs.biz/wp-content/uploads/2023/05/1E5baAaEse26fej7uHcjOgEE2t2.jpg" group-title="🔴UPDATE FILM",Fast X 2023
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/05/07/task1/9e9c7b2fa06358e6861c97d141f9a4a9/480p/index.m3u8
 
