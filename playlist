@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="Indonesia TV",🔥LIVE TV
+https://volironatvleg43.b-cdn.net/sports/lip2_kr/anmssgpu0004/prwvs6cxc0vdk4gyc55nyr6falchh6rscxlj/1080.stream/hdntl=exp=1743947149~acl=*%2Fprwvs6cxc0vdk4gyc55nyr6falchh6rscxlj%2F*~data=hdntl~hmac=88e97dd0aea1d64059279b2a812d1814e66379b1aa0c56bbd1569158e347674b/chunklist.m3u8?channel_id=11455301_hls_h264_1080.stream_38802881&stream_id=1
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="Indonesia TV",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
