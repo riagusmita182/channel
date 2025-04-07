@@ -119,11 +119,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 https://cdn11jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 ======================================= SPORT ===================================================
-
-#EXTINF:-1 group-title="Indonesia TV" tvg-id="sportstars.id" tvg-logo="https://dl.dropbox.com/scl/fi/dh9so1893o9dwcfie1tir/sportstar.png?rlkey=tolkdvuzeqqtw6zgo2seq287p&dl=0",Sportstars
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
 
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="Indonesia TV",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -131,15 +127,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M7aRlmr.png?v=1.0.0.1" group-title="Indonesia TV" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SportStars.id" tvg-name="Sportstars", Sportstars
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="Indonesia TV",Sportstars 1 HD RCTI+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/89cWa61.png?v=1.0.0.1" group-title="Indonesia TV" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SportStars2.id" tvg-name="Sportstars 2", Sportstars 2
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://iili.io/JjzV89s.png" group-title="Indonesia TV",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.45.14
+#KODIPROP:inputstream.adaptive.license_key=http://joss.biz.id/rcplus/drm.php?id=113
+http://joss.biz.id/rcplus/index.mpd?id=113
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/42dwcpw/Tvri-sport-hometv.jpg" group-title="Indonesia TV",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
