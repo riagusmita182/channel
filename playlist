@@ -1,8 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="Indonesia TV",🔥LIVE TV
-https://volironatvleg43.b-cdn.net/sports/lip2_kr/anmssgpu0004/prwvs6cxc0vdk4gyc55nyr6falchh6rscxlj/1080.stream/hdntl=exp=1743947149~acl=*%2Fprwvs6cxc0vdk4gyc55nyr6falchh6rscxlj%2F*~data=hdntl~hmac=88e97dd0aea1d64059279b2a812d1814e66379b1aa0c56bbd1569158e347674b/chunklist.m3u8?channel_id=11455301_hls_h264_1080.stream_38802881&stream_id=1
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="Indonesia TV",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -136,38 +132,21 @@ https://cdn11jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 ======================================= SPORT ===================================================
 
-#EXTINF:-1 group-title="Indonesia TV" tvg-id="soccerchannel.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:-1 group-title="Indonesia TV" tvg-id="soccerchannel.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel ()
-https://av-ch-cdn.mncnow.id/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8
-
 #EXTINF:-1 group-title="Indonesia TV" tvg-id="sportstars.id" tvg-logo="https://dl.dropbox.com/scl/fi/dh9so1893o9dwcfie1tir/sportstar.png?rlkey=tolkdvuzeqqtw6zgo2seq287p&dl=0",Sportstars
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dh9so1893o9dwcfie1tir/sportstar.png?rlkey=tolkdvuzeqqtw6zgo2seq287p&dl=0" group-title="Indonesia TV",SOCCER CHANNEL
-https://av-ch-cdn.mncnow.id/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="Indonesia TV",Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="Indonesia TV",Sportstars 2 (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sportstar3.png" group-title="Indonesia TV",Sportstars 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://natan.nonas.workers.dev/licesnse?id=1002
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sportstars4.png" group-title="Indonesia TV",Sportstars 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png" group-title="Indonesia TV",SPOTV (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
