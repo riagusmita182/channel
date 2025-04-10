@@ -3,10 +3,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimEiphdf5y_c3vyJcCYI7E8aFBuf5eOESOlh4XY3SpM9VdbKgnS7hCWbOc0rW_7si7gWNniunFr6CWfqCaP7qZZnnh9zQvGXV25C4eOKAm3ie6hoPL2ouff2FNbxgTM3q1qYcd4IkqMzEdQm93_VvRsEi_E8FZhhhsg4nWEfdvToz7TYmBrx5BS92BKGA/s200/images.jpg" group-title="Indonesia TV",LIVE : REDSPARK vs PINK SPIDER
-https://volironatvleg51.b-cdn.net/sports/lip2_kr/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/720.stream/hdntl=exp=1744137813~acl=*%2Ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2F*~data=hdntl~hmac=4da62e1a08342b11705adc54d07681f4fc71006dcf47df765b6464b2663ce412/chunklist.m3u8?channel_id=11576160_hls_h264_720.stream_38863779&stream_id=1
+https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="Indonesia TV",ANTV (IH)
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
@@ -81,7 +78,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="Indonesia TV" ch-number="25" tvg-id="MentariTV.id" tvg-name="Mentari TV", Mentari TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-EXTINF:-1 group-title="Indonesia TV" tvg-id="vtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
+#EXTINF:-1 group-title="Indonesia TV" tvg-id="vtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://flv.intechmedia.net/live/ch107.m3u8
 https://why.biz.id/Iptv/oxygen.php?id=vtv
@@ -176,13 +173,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 1 HD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="Indonesia TV",SPOTV 1 HD
 http://extraott.com:900/live/3162523972/3791698850/400251883.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 2 HD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="Indonesia TV",SPOTV 2 HD
 http://extraott.com:900/live/3162523972/3791698850/400459082.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 1 HD" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="Indonesia TV",TNT SPORT 1 HD
 http://extraott.com:900/live/3162523972/3791698850/401338315.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 2 HD" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="Indonesia TV",TNT SPORT 2 HD
 http://extraott.com:900/live/3162523972/3791698850/401338314.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 3 HD" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="Indonesia TV",TNT SPORT 3 HD
 http://extraott.com:900/live/3162523972/3791698850/401338313.m3u8
 
@@ -192,7 +192,7 @@ http://extraott.com:900/live/3162523972/3791698850/191686.m3u8
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://lo1.in/uk/skyspplg.png" group-title="Indonesia TV",UK| SKY SPORTS PREMIER LEAGUE SD
 http://extraott.com:900/live/3162523972/3791698850/153694.m3u8
 
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK| SKY SPORTS F1 SD" tvg-logo="https://lo1.in/it/skts1.png" group-title="Sports",UK| SKY SPORTS F1 SD
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK| SKY SPORTS F1 SD" tvg-logo="https://lo1.in/it/skts1.png" group-title=""Indonesia TV",UK| SKY SPORTS F1 SD
 http://extraott.com:900/live/3162523972/3791698850/153702.m3u8
 
 ====================================== NEWS =====================================================
