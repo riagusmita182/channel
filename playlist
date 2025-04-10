@@ -203,6 +203,12 @@ http://extraott.com:900/live/3162523972/3791698850/401338314.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 3 HD" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="Indonesia TV",TNT SPORT 3 HD
 http://extraott.com:900/live/3162523972/3791698850/401338313.m3u8
 
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://lo1.in/uk/skyspplg.png" group-title="Indonesia TV",UK| SKY SPORTS PREMIER LEAGUE HD
+http://extraott.com:900/live/3162523972/3791698850/191686.m3u8
+
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://lo1.in/uk/skyspplg.png" group-title="Indonesia TV",UK| SKY SPORTS PREMIER LEAGUE SD
+http://extraott.com:900/live/3162523972/3791698850/153694.m3u8
+
 ====================================== NEWS =====================================================
 
 #EXTINF:-1 group-title="Indonesia TV"  tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA
