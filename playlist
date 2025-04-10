@@ -78,10 +78,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="Indonesia TV" ch-number="25" tvg-id="MentariTV.id" tvg-name="Mentari TV", Mentari TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 group-title="Indonesia TV" tvg-id="vtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
 https://flv.intechmedia.net/live/ch107.m3u8
-https://why.biz.id/Iptv/oxygen.php?id=vtv
 
 #EXTINF:-1 group-title="Indonesia TV" tvg-id="deikids.id" tvg-logo="https://dareliman.or.id/wp-content/uploads/2023/06/logo-deikidstv.png",DeiKids TV
 https://e.siar.us/live/deikidstv.m3u8
@@ -192,7 +190,7 @@ http://extraott.com:900/live/3162523972/3791698850/191686.m3u8
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://lo1.in/uk/skyspplg.png" group-title="Indonesia TV",UK| SKY SPORTS PREMIER LEAGUE SD
 http://extraott.com:900/live/3162523972/3791698850/153694.m3u8
 
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK| SKY SPORTS F1 SD" tvg-logo="https://lo1.in/it/skts1.png" group-title=""Indonesia TV",UK| SKY SPORTS F1 SD
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK| SKY SPORTS F1 SD" tvg-logo="https://lo1.in/it/skts1.png" group-title=""Indonesia TV",SKY SPORTS F1 SD
 http://extraott.com:900/live/3162523972/3791698850/153702.m3u8
 
 ====================================== NEWS =====================================================
