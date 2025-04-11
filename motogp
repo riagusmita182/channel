@@ -1,0 +1,9 @@
+#EXTM3U refresh="1440" max-conn="1" refresh="24"
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP: Main Race" tvg-logo="https://lo1.in/it/mtgp.png" group-title="Sports",PPV| MotoGP: Main Race
+http://extraott.com:900/live/3162523972/3791698850/5292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP -  OB1 Feed" tvg-logo="https://lo1.in/it/mtgp.png" group-title="Sports",PPV| MotoGP -  OB1 Feed
+http://extraott.com:900/live/3162523972/3791698850/47318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP -  OB2 Feed" tvg-logo="https://lo1.in/it/mtgp.png" group-title="Sports",PPV| MotoGP -  OB2 Feed
+http://extraott.com:900/live/3162523972/3791698850/47319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP -  OB3 Feed" tvg-logo="https://lo1.in/it/mtgp.png" group-title="Sports",PPV| MotoGP -  OB3 Feed
+http://extraott.com:900/live/3162523972/3791698850/47320.m3u8
