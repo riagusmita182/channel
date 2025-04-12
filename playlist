@@ -112,11 +112,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 #EXTINF:-1 channel-id="pluto-60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://i.ibb.co.com/QkNWGtG/legokidstv.png" tvg-chno="3210" group-title="Indonesia TV",LEGO Kids TV 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a0043a-b258-11ee-b6c7-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca05fe1-d777-48d3-80f2-58183408d1d1&userId=&serverSideAds=true
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
-#EXTINF:-1 tvg-id="MyKidz" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/010/50010-SNAPSHOT-l.png" group-title="Indonesia TV",MyKids
-https://dsgtq5sngxkde.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+#EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="Indonesia TV",MyKids
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/3pc3BRz.png?v=1.0.0.1" group-title="Indonesia TV" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="FunPlanet.id" tvg-name="Fun Planet", FunPlanet
 https://cdn11jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
