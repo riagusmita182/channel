@@ -269,18 +269,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/Celestia
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
+#EXTINF:-1 group-title="Indonesia TV" tvg-id="galaxy.id" tvg-logo="https://i.imgur.com/PdohVJI.png",Galaxy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png" group-title="Indonesia TV",Galaxy (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+https://cempedak-cdn-fly.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrd2rWdBYaLqkZNWV_IMlVAqwNNv4yWLXontWyNyngxd688CEvrpOyq9KpW-6TNnOar2Nk349CWOeOMlEpgU4ez9A2bUIIs-_McB2mCHRCM96R_tv2Alfk_JcNoR37_3ZQ3PpXb3i-K9SvCdaC1IwtxooVOQliLlsZxVSsYYyZ6TXOFQXygjtFfmpdy2RQ/s340/galaxy_premium.png" group-title="Indonesia TV", Galaxy Premium 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
-https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:-1 group-title="Indonesia TV" tvg-id="galaxypremium.id" tvg-logo="https://i.imgur.com/FbqpsDe.png",GALAXY PREMIUM (V+) 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Galaxy Premium" tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png" group-title="Indonesia TV",GALAXY PREMIUM
+#EXTINF:-1 tvg-name="" tvg-id="Galaxy Premium" tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png" group-title="Indonesia TV",GALAXY PREMIUM (IH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
