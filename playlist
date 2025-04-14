@@ -121,10 +121,11 @@ https://cdn11jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 ======================================= SPORT ===================================================
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89cWa61.png" group-title="Indonesia TV" tvg-id="SportStars2.id", Sportstars2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/89cWa61.png?v=1.0.0.1" group-title="Indonesia TV" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SportStars2.id" tvg-name="Sportstars 2", Sportstars 2
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="Indonesia TV",Soccer Channel
