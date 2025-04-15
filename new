@@ -145,7 +145,7 @@ https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kusnadipepenk/pajal/refs/heads/main/pajal.png" group-title="Indonesia TV",Kompas TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sFFZLD7/kompas.png" group-title="Indonesia TV",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=kompastv
 
@@ -288,10 +288,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:-1 tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="OLAHRAGA",Sportstar 3 🇮🇩
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/MNCSports3-HD/sa_dash/MNCSports3-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Indonesia TV",SPORTSTARS 4 HD
 #EXTVLCOPT:http-referrer=https://visionplus.id
