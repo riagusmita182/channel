@@ -59,6 +59,9 @@ https://github.com/riagusmita182/PL/raw/refs/heads/main/vtv.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/3pc3BRz.png?v=1.0.0.1" group-title="Indonesia TV",FUN PLANET (IH)
 https://cdn11jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png" group-title="Indonesia TV",Kids TV (V+)
+https://cempedak-cdn-fly.mncnow.id/live/eds/Kids-HD/sa_dash/Kids-HD.mpd
+
 =================================== NEWS =====================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="Indonesia TV",TV ONE (V+)
@@ -70,7 +73,21 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="Indonesia TV",KOMPAS TV
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png" group-title="INDONESIA HD",INEWS HD (V+)
+EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="Indonesia TV",INEWS HD (V+)
 https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png" group-title="Indonesia TV",INEWS HD (IH)
+https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
 
 
