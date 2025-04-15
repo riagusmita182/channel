@@ -48,7 +48,11 @@ https://why.biz.id/Iptv/oxygen.php?id=tvrisport
 https://why.biz.id/Iptv/oxygen.php?id=mentaritv
 
 https://why.biz.id/Iptv/oxygen.php?id=jaktv
+
+#EXTINF:-1 tvg-logo="https://youtv.id/data/channel/ktv_20250117172516.png" group-title="Indonesia TV",KTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=ktv
+
 https://why.biz.id/Iptv/oxygen.php?id=btv
 https://why.biz.id/Iptv/oxygen.php?id=jpm
 https://why.biz.id/Iptv/oxygen.php?id=jitv
