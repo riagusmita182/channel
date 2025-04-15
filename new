@@ -18,8 +18,10 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Hr47xyW/transtv.png" group-title="Indonesia TV",TRANSTV HD (V+)
 https://cempedak-cdn-fly.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
-#EXTINF:-1 TV" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans-tv%20(1).png group-title="Indonesia",TRANSTV (IH)
+#EXTINF:-1 TV" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans-tv%20(1).png group-title="Indonesia TV",TRANSTV (IH)
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Hr47xyW/transtv.png" group-title="Indonesia TV",TRANSTV HD (BIZ)
 https://why.biz.id/Iptv/oxygen.php?id=transtv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="Indonesia TV",TRANS7 (V+)
@@ -27,10 +29,15 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png" group-title="Indonesia TV", TRANS7 (IH)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="Indonesia TV",TRANS7 HD (BIZ)
 https://why.biz.id/Iptv/oxygen.php?id=trans7
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="Indonesia TV",RTV (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="Indonesia TV",RTV (V+)
 https://cempedak-cdn-fly.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="Indonesia TV",RTV (BIZ)
+https://why.biz.id/Iptv/oxygen.php?id=rtv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J72JMfZ/net.png" group-title="Indonesia TV" ,NET TV (V+)
 https://cempedak-cdn-fly.mncnow.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
@@ -46,7 +53,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="Indonesia TV",MENTARI TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="Indonesia TV",MENTARI TV (IH)
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="Indonesia TV,MENTARI TV HD (BIZ)
@@ -64,9 +71,11 @@ https://why.biz.id/Iptv/oxygen.php?id=planetfun
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="Indonesia TV",TV ONE HD (BIZ)
 https://why.biz.id/Iptv/oxygen.php?id=tvone
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png group-title="Indonesia TV",METRO TV (V+)
+https://cempedak-cdn-fly.mncnow.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bQP5St8/metrotv.png" group-title="Indonesia TV",METRO TV (BIZ)
+https://why.biz.id/Iptv/oxygen.php?id=metrotv
 
 
 
