@@ -20,12 +20,14 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
 #EXTINF:-1 TV" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans-tv%20(1).png group-title="Indonesia",TRANSTV (IH)
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+https://why.biz.id/Iptv/oxygen.php?id=transtv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="Indonesia TV",TRANS7 (V+)
 https://cempedak-cdn-fly.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png" group-title="Indonesia TV", TRANS7 (IH)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+https://why.biz.id/Iptv/oxygen.php?id=trans7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="Indonesia TV",RTV (V+)
 https://cempedak-cdn-fly.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
@@ -59,8 +61,8 @@ https://cdn11jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/L0gjZdq/funplanet.png" group-title="Indonesia TV",FUN PLANET (BIZ)
 https://why.biz.id/Iptv/oxygen.php?id=planetfun
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="Indonesia TV",TV ONE HD (BIZ)
+https://why.biz.id/Iptv/oxygen.php?id=tvone
 
 
 
