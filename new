@@ -11,3 +11,9 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="Indonesia TV",RCTI
 https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Hr47xyW/transtv.png" group-title="Indonesia TV",TransTV HD
+https://cempedak-cdn-fly.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="Indonesia TV", Trans7 (ih)
+https://cempedak-cdn-fly.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
