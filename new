@@ -175,9 +175,26 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/200jfBD6/Skysportslaliga.png" group-title="Indonesia TV",SKY SPORTS LALIGA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SDsfFQs5/Skysportsbundesliga.png" group-title="Indonesia TV",SKY SPORTS BUNDES LIGA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
 
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://lo1.in/uk/skyspplg.png" group-title="Indonesia TV",SKY SPORTS PREMIER LEAGUE HD
+http://extraott.com:900/live/3162523972/3791698850/191686.m3u8
 
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://lo1.in/uk/skyspplg.png" group-title="Indonesia TV",SKY SPORTS PREMIER LEAGUE SD
+http://extraott.com:900/live/3162523972/3791698850/153694.m3u8
+
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK| SKY SPORTS F1 SD" tvg-logo="https://lo1.in/it/skts1.png" group-title="Indonesia TV",SKY SPORTS F1 SD
+http://extraott.com:900/live/3162523972/3791698850/153702.m3u8
 
 
 
