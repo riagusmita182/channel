@@ -357,4 +357,5 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-
 
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast6.png" group-title="🔴UPDATE FILM",IRON MAN3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cloud.hownetwork.xyz/video.php?id=58c5d4f4b9f80b7b99d62c46f8d4f47d
