@@ -127,6 +127,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
 #EXTINF:-1 tvg-id="ZooMoo.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="Indonesia TV",ZooMoo
 https://cempedak-cdn-fly.mncnow.id/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
 
+#EXTINF:-1 tvg-id="Moonbug" tvg-url="https://bit.ly/UnifyEpg" group-title="Indonesia TV" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug
+https://cempedak-cdn-fly.mncnow.id/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd
+
 =================================== NEWS =====================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="Indonesia TV",TV ONE (V+)
