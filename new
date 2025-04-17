@@ -355,22 +355,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-
 
 ================================= FAST & THE FURIOUS MOVIE ===========================================
 
-
-
-#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/10/film-alien-romulus-2024-lk21-d21.jpg.webp" group-title="🔴UPDATE FILM",ALIEN ROMULUS 2024
-https://stream.hownetwork.xyz/yyy/alien-romulus-2024-bluray_X_31ac9f1d/26/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-hit-man-2024-lk21-d21.jpg.webp" group-title="🔴UPDATE FILM",HIT MAN 2024
-https://stream.hownetwork.xyz/yyy/hit-man-2024-webdl_X_960c7f88/22/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/indofilm.beauty/wp-content/uploads/2025/01/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg?resize=152%2C228&ssl=1" group-title="🔴UPDATE FILM",HENRY DANGER THE MOVIE 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/16/Henry.Danger.The.Movie.2025.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1G978IJ2KDPl4Z4icZrxZTozb1v.jpg" group-title="🔴UPDATE FILM",Godzilla x Kong: The New Empire (2024)
-https://cdn.turboviplay.com/data2/6663bbd7b707f/6663bbd7b707f.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast1.png" group-title="FAST & THE FURIOUS MOVIE",The Fast and The Furious 2001
 https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/The%20Fast%20and%20Furious%202001.m3u8
 
@@ -618,6 +602,10 @@ https://niikaplayerr.com/stream/2ys_Cu1KgFQUASmzQJj1kw/hjkrhuihghfvu/1744945334/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://dd2stliwt0bc.acek-cdn.com/hls2/01/03708/dfj27am9zr61_,l,n,.urlset/index-f2-v1-a1.m3u8?t=WAAS_IdryOnXpHggb4Fm-nxVfwSgAEqcpuW0hoQwuZc&s=1744902368&e=129600&f=18544436&srv=pgnp5flcy8ev&i=0.4&sp=500&p1=pgnp5flcy8ev&p2=pgnp5flcy8ev&asn=7713
 
+#EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2016/05/film-cars-2006.jpg",Cars (2006)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://qdihmnfwepxni.acek-cdn.com/hls2/01/04166/24q28ok8iboc_,l,n,.urlset/index-f2-v1-a1.m3u8?t=wYMpnVJW1_G-12yzUTpM4ojS_ZMzCn_qkvTlrT22w2U&s=1744904331&e=129600&f=20831167&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=7713
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2016/05/film-cars-2-2011.jpg",Cars 2 (2011)
 https://niikaplayerr.com/stream/nMEaSR3g1WcOikHGwNzG4Q/hjkrhuihghfvu/1744946076/66466/index-f2-v1-a1.m3u8
@@ -625,6 +613,19 @@ https://niikaplayerr.com/stream/nMEaSR3g1WcOikHGwNzG4Q/hjkrhuihghfvu/1744946076/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2017/07/film-cars-3-2017-1.jpg",Cars 3 (2017)
 https://niikaplayerr.com/stream/ZuKxniXxcGepn4PG_SdDWA/hjkrhuihghfvu/1744946024/54562/index-f2-v1-a1.m3u8
+
+============================================= MOVIE =============================================================
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1G978IJ2KDPl4Z4icZrxZTozb1v.jpg" group-title="MOVIE",Godzilla x Kong: The New Empire (2024)
+https://cdn.turboviplay.com/data2/6663bbd7b707f/6663bbd7b707f.m3u8
+https://be6721.rcr72.waw04.cdn255.com/hls2/01/06317/7i886dlmtv6l_x/index-v1-a1.m3u8?t=1Ac0D63xqPrtpE40fYPB139nx_W1ltAZv5LdHCT3e80&s=1744904060&e=10800&f=31585847&srv=26&asn=7713&sp=5500&p=
+
+
+
+
+
+
+
 
 
 
