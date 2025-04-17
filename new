@@ -764,6 +764,10 @@ https://52mtxygefqxf.milocdn.com/hls2/01/00013/1vq33ukzokuu_,l,n,h,.urlset/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://be6721.rcr72.waw04.cdn255.com/hls2/02/02783/qvyca9469am8_h/index-v1-a1.m3u8?t=kkOAEB8xSyX7ihCkGsSaunLVAXYmrJRsnRgSbeqsj7c&s=1744904493&e=10800&f=13919188&srv=30&asn=7713&sp=4000&p=
 
+#EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2018/06/film-incredibles-2-2018-lk21.jpg",Incredibles 2 (2018)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://be6721.rcr72.waw04.cdn255.com/hls2/01/02783/q4jff513g5t4_h/index-v1-a1.m3u8?t=IDl-Dkctwy2s2kfGIzPQqBEDvtwQazCzUHGn7uH6MDM&s=1744910537&e=10800&f=13915221&srv=25&asn=7713&sp=4000&p=
+
 ============================================= MOVIE =============================================================
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1G978IJ2KDPl4Z4icZrxZTozb1v.jpg" group-title="MOVIE",Godzilla x Kong: The New Empire (2024)
@@ -773,9 +777,17 @@ https://be6721.rcr72.waw04.cdn255.com/hls2/01/06317/7i886dlmtv6l_x/index-v1-a1.m
 =========================================== TRANSFORMER MOVIE ===================================================
 
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/01/film-transformers-2007.jpg" group-title="TRANSFORMER MOVIE",Transformers (2007)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://ejjyomiqje9sf.acek-cdn.com/hls2/01/02394/jhua95vxchu1_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Haxsw4C9KjZzGwdzqHQ49Nhsglc0oon22R1nLqHbnWs&s=1744910383&e=129600&f=11970679&srv=F6vE2P5Wjncn&i=0.4&sp=500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=7713
 
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2016/01/film-transformers-revenge-of-the-fallen-2009.jpg" group-title="TRANSFORMER MOVIE",Transformers: Revenge of the Fallen (2009)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://etojdo3yv1iw.acek-cdn.com/hls2/01/02394/qvqvmznhkju1_,l,n,.urlset/index-f2-v1-a1.m3u8?t=EDXyWB_L6gJD9rH6plsENuctuaKFq1IaR6rkLRLAo9Q&s=1744910295&e=129600&f=11972334&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=7713
 
-
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-transformers-dark-of-the-moon-2011.jpg" group-title="TRANSFORMER MOVIE",Transformers: Dark of the Moon (2011)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://enzhr6cj500t.acek-cdn.com/hls2/01/02394/cu4pw0bw9uaq_,l,n,.urlset/index-f2-v1-a1.m3u8?t=L-KxIfrOjgwLUMly67PIALc9ZhtQlLN6WVfACFk4Mqk&s=1744910210&e=129600&f=11972970&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=7713
 
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-transformers-age-of-extinction-2014.jpg" group-title="TRANSFORMER MOVIE",Transformers: Age of Extinction (2014)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
