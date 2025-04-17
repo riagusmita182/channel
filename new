@@ -559,13 +559,16 @@ https://cdn2.turboviplay.com/data1/67d17c59d3c61/67d17c59d3c61720.m3u8
 
 
 #EXTINF:-1 type="" group-title="MOVIE" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-3-2013.jpg.webp",Iron Man 3 (2013)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn2.turboviplay.com/data1/66f855be8a8ba/66f855be8a8ba.m3u8
 
+#EXTINF:-1 type="" group-title="MOVIE" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",A Minecraft Movie (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIE" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",🔴 A Minecraft Movie (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/08/A.Minecraft.Movie.2025.mp4/tracks-v1a1/mono.m3u8
 
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/frjVyx5Pu2j3Dj1hTqUzbHSa6d9.jpg",A Knight’s War (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/04/A.Knights.War.2025.mp4/tracks-v1a1/mono.m3u8
 
 
 
