@@ -704,14 +704,14 @@ https://jdou5wo6ffta.acek-cdn.com/hls2/01/02393/u3gcs77d2wpg_,l,n,.urlset/index-
 https://r4eeg9mngv6q.acek-cdn.com/hls2/01/00491/skb56qkzd4aw_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=RY_WVMAgUABoogKMnfjtwS6vfSQYkEDr-p9NUpKch10&s=1744908386&e=129600&f=2459100&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=7713
 https://r4eeg9mngv6q.acek-cdn.com/hls2/01/00491/skb56qkzd4aw_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=RY_WVMAgUABoogKMnfjtwS6vfSQYkEDr-p9NUpKch10&s=1744908386&e=129600&f=2459100&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=7713
 
+#EXTINF:-1 group-title="DC MOVIE" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2018/12/film-aquaman-2018-lk21.jpg",Aquaman (2018)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://be4235.rcr32.ams02.cdn255.com/hls2/02/02748/4fkpkmlqv5hh_h/index-v1-a1.m3u8?t=zWxq3ChvJIYxDT14_rXmbHSRltubd6rGKMMJ62V7Z9A&s=1744909194&e=10800&f=29069337&srv=25&asn=7713&sp=4000&p=
+
 #EXTINF:-1 group-title="DC MOVIE" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/01/film-aquaman-and-the-lost-kingdom-2023-lk21-d21.jpg",Aquaman and the Lost Kingdom (2023)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://r4eeg9mngv6q.acek-cdn.com/hls2/01/02332/j6kmhg7b9yvm_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=AIkfGRbWYRS5SgbwMLPChVI7XOxzGQ2paXuS7vfOvqc&s=1744908728&e=129600&f=11661418&srv=e4RHfFUBYeX4H3m&i=0.4&sp=500&p1=e4RHfFUBYeX4H3m&p2=e4RHfFUBYeX4H3m&asn=7713
 https://r4eeg9mngv6q.acek-cdn.com/hls2/01/02332/j6kmhg7b9yvm_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=AIkfGRbWYRS5SgbwMLPChVI7XOxzGQ2paXuS7vfOvqc&s=1744908728&e=129600&f=11661418&srv=e4RHfFUBYeX4H3m&i=0.4&sp=500&p1=e4RHfFUBYeX4H3m&p2=e4RHfFUBYeX4H3m&asn=7713
-
-
-
-
 
 ========================================== ANIMATION MOVIE =====================================================
 
@@ -763,6 +763,12 @@ https://be6721.rcr72.waw04.cdn255.com/hls2/02/02783/qvyca9469am8_h/index-v1-a1.m
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1G978IJ2KDPl4Z4icZrxZTozb1v.jpg" group-title="MOVIE",Godzilla x Kong: The New Empire (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://be6721.rcr72.waw04.cdn255.com/hls2/01/06317/7i886dlmtv6l_x/index-v1-a1.m3u8?t=1Ac0D63xqPrtpE40fYPB139nx_W1ltAZv5LdHCT3e80&s=1744904060&e=10800&f=31585847&srv=26&asn=7713&sp=5500&p=
+
+=========================================== TRANSFORMER MOVIE ===================================================
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg" group-title="TRANSFORMER MOVIE",Transformers: Rise of the Beasts (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://j3rmodimy1oj.acek-cdn.com/hls2/01/02394/pvr3d80wxhlz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=tOqPUUlE52OWqtkDl6QU5SCTEuu5jABiZdGXwzD9OiU&s=1744909280&e=129600&f=11973649&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=7713
 
 
 
