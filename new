@@ -614,6 +614,15 @@ https://niikaplayerr.com/stream/nMEaSR3g1WcOikHGwNzG4Q/hjkrhuihghfvu/1744946076/
 #EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2017/07/film-cars-3-2017-1.jpg",Cars 3 (2017)
 https://niikaplayerr.com/stream/ZuKxniXxcGepn4PG_SdDWA/hjkrhuihghfvu/1744946024/54562/index-f2-v1-a1.m3u8
 
+#EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-toy-story-that-time-forgot-2014.jpg",Toy Story That Time Forgot (2014)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://52mtxygefqxf.milocdn.com/hls2/01/00013/1vq33ukzokuu_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=_VKm4XrJ03W35Gt7WtzBFbb-fvsPCC4h3YvlgNmWZBs&s=1744904659&e=129600&f=68155&srv=x3Wfr8x0vkhr&i=0.4&sp=500&p1=x3Wfr8x0vkhr&p2=x3Wfr8x0vkhr&asn=7713
+https://52mtxygefqxf.milocdn.com/hls2/01/00013/1vq33ukzokuu_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=_VKm4XrJ03W35Gt7WtzBFbb-fvsPCC4h3YvlgNmWZBs&s=1744904659&e=129600&f=68155&srv=x3Wfr8x0vkhr&i=0.4&sp=500&p1=x3Wfr8x0vkhr&p2=x3Wfr8x0vkhr&asn=7713
+
+#EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2019/06/film-toy-story-4-2019-lk21.jpg",Toy Story 4 (2019)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://be6721.rcr72.waw04.cdn255.com/hls2/02/02783/qvyca9469am8_h/index-v1-a1.m3u8?t=kkOAEB8xSyX7ihCkGsSaunLVAXYmrJRsnRgSbeqsj7c&s=1744904493&e=10800&f=13919188&srv=30&asn=7713&sp=4000&p=
+
 ============================================= MOVIE =============================================================
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1G978IJ2KDPl4Z4icZrxZTozb1v.jpg" group-title="MOVIE",Godzilla x Kong: The New Empire (2024)
