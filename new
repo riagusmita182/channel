@@ -603,6 +603,10 @@ https://jdou5wo6ffta.acek-cdn.com/hls2/01/04119/2s3ftquiiicx_,l,n,.urlset/index-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://12kbrnhtqb58.milocdn.com/hls2/01/01082/2z9r4bcr0qu6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=xTjFOwx5S_FSVkVRTPch5aeyVP1e7NzMv-VOfxvtKYw&s=1744900585&e=129600&f=5412047&srv=olm8KoZDIqSx&i=0.4&sp=500&p1=olm8KoZDIqSx&p2=olm8KoZDIqSx&asn=7713
 
+#EXTINF:-1 group-title="INDIA MOVIE" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2015/12/film-krrish-3-2013.jpg",Krrish 3 (2013)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://rnzt2t4xvku08.acek-cdn.com/hls2/01/02387/wch1njta6w8p_l/index-v1-a1.m3u8?t=ipZxJg3vpH0UhX2Xcrnd9QYFV5kfuy5L_-6EzVU6iU8&s=1744901120&e=129600&f=11937583&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=7713
+
 ========================================= DC MOVIE =======================================================
 
 #EXTINF:-1 group-title="DC MOVIE" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg",Shazam! Fury of the Gods (2023)
