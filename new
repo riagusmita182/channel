@@ -551,6 +551,10 @@ https://hls2.dewanonton.online/vultr/ghaMPVMjzTNxT/hls-stream.m3u8
 #EXTINF:-1 type="" group-title="Marvel Universe" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2016/05/film-captain-america-civil-war-2016.jpg.webp",Captain America - Civil War (2016)
 https://hls2.dewanonton.online/vultr/sRzfeUbgHurHz/hls-stream.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 group-title="Marvel Universe" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",Captain America  Brave New World (2025)
+https://cdn2.turboviplay.com/data1/67d17c59d3c61/67d17c59d3c61720.m3u8
+
 
 
 
