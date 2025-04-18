@@ -478,16 +478,13 @@ https://hls2.dewanonton.online/vultr/bdcAAnsREyKNt/hls-stream.m3u8
 
 #EXTINF:-1 type="" group-title="MARVEL MOVIE" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2016/05/film-thor-2-dark-world-2013.jpg",Thor - The Dark World (2013)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://be4235.rcr32.ams02.cdn255.com/hls2/03/05297/evdo6ri9rtdy_x/index-v1-a1.m3u8?t=SNmesCcUEYfiQ3l1_5Gy6P_BdT36IEhcDajFhbZl-rE&s=1744905946&e=10800&f=26488966&srv=52&asn=7713&sp=5500&p=
 
 #EXTINF:-1 type="" group-title="MARVEL MOVIE" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2017/11/film-thor-ragnarok-2017.jpg",Thor - Ragnarok (2017)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://be2719.rcr22.ams01.cdn255.com/hls2/01/02748/07lfgymh6tvj_h/index-v1-a1.m3u8?t=0_QMIINZ62uvMTZWEzpY9Um6aECQz-MflguHbN2uaVU&s=1744905800&e=10800&f=17657745&srv=20&asn=7713&sp=4000&p=
 https://storage.dewanonton.online/hls/7921f286-5a62-4983-9c62-af6b5b36f4ed.mp4/index.m3u8
 
 #EXTINF:-1 type="" group-title="MARVEL MOVIE" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2022/07/film-thor-love-and-thunder-2022-lk21-d21.jpg",Thor - Love and Thunder (2022)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://be7713.rcr82.waw05.cdn255.com/hls2/02/02719/sid1vtcauxha_h/index-v1-a1.m3u8?t=Q_uwST1o-bZBGyuvIr5Z1oQQA4GLo51ZEWh-bcvV7aY&s=1744905851&e=10800&f=14298909&srv=30&asn=7713&sp=4000&p=
 https://storage.dewanonton.online/hls/e399656b-e83d-4918-9edc-5b275163fdde.mp4/index.m3u8
 
 ======================================================================================
@@ -554,7 +551,6 @@ https://storage.dewanonton.online/hls/54b97236-af95-453d-b83c-e64b18f0f166.mp4/i
 
 #EXTINF:-1 type="" group-title="MARVEL MOVIE" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg.webp",Spider-Man - No Way Home (2021)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://be7713.rcr82.waw05.cdn255.com/hls2/01/02783/0fy2hcjlz6i4_h/index-v1-a1.m3u8?t=FaGxWTcAyPiHzvW0GsJrNFbw6sOtHykOwFkLYdBkxRg&s=1744906624&e=10800&f=13917827&srv=27&asn=7713&sp=4000&p=
 https://storage.dewanonton.online/hls/6570351e-95c5-4433-9775-573a7db188c3.mp4/index.m3u8
 
 ==========================================================================================
@@ -772,8 +768,7 @@ https://qdihmnfwepxni.acek-cdn.com/hls2/01/02394/iv4ovkmpogz9_,l,n,.urlset/index
 
 #EXTINF:-1 group-title="ANIMATION MOVIE" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/01/film-mufasa-the-lion-king-2024-lk21-d21.jpg",Mufasa: The Lion King (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://niikaplayerr.com/stream/2ys_Cu1KgFQUASmzQJj1kw/hjkrhuihghfvu/1744945334/21425168/index-f3-v1-a1.m3u8
-https://niikaplayerr.com/stream/2ys_Cu1KgFQUASmzQJj1kw/hjkrhuihghfvu/1744945334/21425168/index-f2-v1-a1.m3u8
+
 
 #EXTINF:-1 group-title="ANIMATION MOVIE" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/09/film-transformers-one-2024-lk21-d21.jpg",Transformers One (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -785,15 +780,15 @@ https://qdihmnfwepxni.acek-cdn.com/hls2/01/04166/24q28ok8iboc_,l,n,.urlset/index
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2016/05/film-cars-2-2011.jpg",Cars 2 (2011)
-https://niikaplayerr.com/stream/nMEaSR3g1WcOikHGwNzG4Q/hjkrhuihghfvu/1744946076/66466/index-f2-v1-a1.m3u8
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2017/07/film-cars-3-2017-1.jpg",Cars 3 (2017)
-https://niikaplayerr.com/stream/ZuKxniXxcGepn4PG_SdDWA/hjkrhuihghfvu/1744946024/54562/index-f2-v1-a1.m3u8
+
 
 #EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2015/12/film-toy-story-1995.jpg",Toy Story (1995)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://be2719.rcr22.ams01.cdn255.com/hls2/02/02756/vo3fpx7kax02_x/index-v1-a1.m3u8?t=8l07iiINxnC6sZ1nUl4VnxgG9dut-sOnQcLwkHiV6HY&s=1744905144&e=10800&f=13781936&srv=27&asn=7713&sp=5500&p=
+
 
 #EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/02/film-toy-story-2-1999.jpg",Toy Story 2 (1999)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -802,7 +797,7 @@ https://kf9jy6xerfsy.milocdn.com/hls2/01/00014/p85jeel972rl_,l,n,h,.urlset/index
 
 #EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2016/02/film-toy-story-3-2010.jpg",Toy Story 3 (2010)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://be2719.rcr22.ams01.cdn255.com/hls2/01/02756/tnge6wxmxv89_x/index-v1-a1.m3u8?t=FErzda5LfPJlz6XxfnmJ2PjQSkhJqFlJHVhaABms0U8&s=1744904887&e=10800&f=13781959&srv=26&asn=7713&sp=5500&p=
+
 
 #EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-toy-story-that-time-forgot-2014.jpg",Toy Story That Time Forgot (2014)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -811,7 +806,7 @@ https://52mtxygefqxf.milocdn.com/hls2/01/00013/1vq33ukzokuu_,l,n,h,.urlset/index
 
 #EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2019/06/film-toy-story-4-2019-lk21.jpg",Toy Story 4 (2019)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://be6721.rcr72.waw04.cdn255.com/hls2/02/02783/qvyca9469am8_h/index-v1-a1.m3u8?t=kkOAEB8xSyX7ihCkGsSaunLVAXYmrJRsnRgSbeqsj7c&s=1744904493&e=10800&f=13919188&srv=30&asn=7713&sp=4000&p=
+
 
 #EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/11/film-the-incredibles-2004.jpg",Incredibles (2004)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -819,13 +814,13 @@ https://nvuvqg7vjicd.milocdn.com/hls2/01/00012/5cojo4y63cdr_,l,n,.urlset/index-f
 
 #EXTINF:-1 type="" group-title="ANIMATION MOVIE" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2018/06/film-incredibles-2-2018-lk21.jpg",Incredibles 2 (2018)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://be6721.rcr72.waw04.cdn255.com/hls2/01/02783/q4jff513g5t4_h/index-v1-a1.m3u8?t=IDl-Dkctwy2s2kfGIzPQqBEDvtwQazCzUHGn7uH6MDM&s=1744910537&e=10800&f=13915221&srv=25&asn=7713&sp=4000&p=
+
 
 ============================================= MOVIE =============================================================
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1G978IJ2KDPl4Z4icZrxZTozb1v.jpg" group-title="MOVIE",Godzilla x Kong: The New Empire (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://be6721.rcr72.waw04.cdn255.com/hls2/01/06317/7i886dlmtv6l_x/index-v1-a1.m3u8?t=1Ac0D63xqPrtpE40fYPB139nx_W1ltAZv5LdHCT3e80&s=1744904060&e=10800&f=31585847&srv=26&asn=7713&sp=5500&p=
+
 
 =========================================== TRANSFORMER MOVIE ===================================================
 
