@@ -150,6 +150,14 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
 #EXTINF:-1 tvg-id="Moonbug" tvg-url="https://bit.ly/UnifyEpg" group-title="Indonesia TV" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug
 https://cempedak-cdn-fly.mncnow.id/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/330px-EBS_KIDS.svg.png" group-title="Indonesia TV",EBS KIDS
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=ebskids
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uhwv1il.png" group-title="Indonesia TV",TOON MAX
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=toonmax
+
 =================================== NEWS =====================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="Indonesia TV",TV ONE (V+)
