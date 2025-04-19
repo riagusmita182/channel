@@ -26,6 +26,22 @@ https://why.biz.id/Iptv/oxygen.php?id=mentaritv
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=vtv
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fun_Planet.png/250px-Fun_Planet.png" group-title="Indonesia TV",FUN PLANET
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=planetfun
+
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=ebskids
+
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=toonmax
+
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=spacetoon
+
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=kidszoneplus
+
 ====================================== NEWS ======================================
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-l.png" group-title="Indonesia TV",METRO TV
@@ -64,10 +80,7 @@ https://why.biz.id/Iptv/oxygen.php?id=btv
 https://why.biz.id/Iptv/oxygen.php?id=jpm
 https://why.biz.id/Iptv/oxygen.php?id=jitv
 
-https://why.biz.id/Iptv/oxygen.php?id=ebskids
-https://why.biz.id/Iptv/oxygen.php?id=toonmax
-https://why.biz.id/Iptv/oxygen.php?id=spacetoon
-https://why.biz.id/Iptv/oxygen.php?id=kidszoneplus
+
 
 https://why.biz.id/Iptv/oxygen.php?id=salamtv
 https://why.biz.id/Iptv/oxygen.php?id=rodjatv
