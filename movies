@@ -1,4 +1,4 @@
-
+#EXTM3U
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",Mufasa: The Lion King (2024)
@@ -7,3 +7,40 @@ https://cdn4.turboviplay.com/data1/67e523c699318/67e523c699318720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4YZpsylmjHbqeWzjKpUEF8gcLNW.jpg",Moana 2 (2024)
 https://cdn2.turboviplay.cc/data1/679a85600aea0/679a85600aea0720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nyEr1VqvKx1YiesMC3oTB2fZvpY.jpg",Sonic the Hedgehog 3 (2024)
+https://cdn3.turboviplay.cc/data1/67908c7287fd0/67908c7287fd0720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",Venom  The Last Dance (2024)
+https://cdn3.turboviplay.cc/data1/6782110cd6512/6782110cd6512720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg", The Wild Robot (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/15/The.Wild.Robot.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",Red One (2024)
+https://ss02.tubzde.cc/data/0/675bc12b7d971/hls720/675bc12b7d971720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
