@@ -555,13 +555,17 @@ https://storage.dewanonton.online/hls/ca4e0be3-e023-49ce-8720-7edea0e115c8.mp4/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://storage.dewanonton.online/hls/586ff2b6-bda4-47d8-90fb-acdcd179d7b0.mp4/index.m3u8
 
-#EXTINF:-1 type="" group-title="MOVIES" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-2008.jpg.webp",Iron Man (2008)
+#EXTINF:-1 type="" group-title="MOVIES" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-2008.jpg",Iron Man (2008)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://storage.dewanonton.online/hls/d6ea0d1e-8bd8-465e-becd-a2b229a79e6c.mp4/index.m3u8
 
-#EXTINF:-1 type="" group-title="MOVIES" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-2-2010.jpg.webp",Iron Man 2 (2010)
+#EXTINF:-1 type="" group-title="MOVIES" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-2-2010.jpg",Iron Man 2 (2010)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://storage.dewanonton.online/hls/8e6b73bc-21ab-4534-b865-192799619ec3.mp4/index.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-3-2013.jpg",Iron Man 3 (2013)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://etojdo3yv1iw.acek-cdn.com/hls2/01/02334/6bmiuypbpp13_,l,n,.urlset/index-f2-v1-a1.m3u8?t=DxR2leO_I31n-KPSMHrowU0o55LCnx4T9WMwzksMg1k&s=1745240044&e=129600&f=11670888&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=7713
 
 #EXTINF:-1 type="" group-title="MOVIES" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2015/12/film-the-incredible-hulk-2008.jpg.webp",The Incredible Hulk (2008)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -585,7 +589,8 @@ https://niikaplayerr.com/stream/KD-JZfXMg-8pticndhND-g/hjkrhuihghfvu/1745282528/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://niikaplayerr.com/stream/0orhKV9W1rj_kFnNK8bopw/hjkrhuihghfvu/1745282837/20450873/index-f2-v1-a1.m3u8
 
-
-
+#EXTINF:-1 type="" group-title="MOVIES" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/11/film-red-one-2024-lk21-d21.jpg",Red One (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://niikaplayerr.com/stream/ksjYzK418CQ6tJ3F0UPTag/hjkrhuihghfvu/1745283048/15872521/index-f2-v1-a1.m3u8
 
 
