@@ -1,6 +1,4 @@
-
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="Indonesia TV",RTV (V+)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
@@ -610,9 +608,9 @@ https://niikaplayerr.com/stream/-ZkOoIWgZ44InEzp8jghuA/hjkrhuihghfvu/1745297260/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn2.turboviplay.com/data1/670c80963d7b6/670c80963d7b6.m3u8
 
-#EXTINF:-1 type="" group-title="MOVIES" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2022/05/film-top-gun-maverick-2022-lk21-d21.jpg.webp",Top Gun: Maverick (2022)
+#EXTINF:-1 type="" group-title="MOVIES" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2022/05/film-top-gun-maverick-2022-lk21-d21.jpg.webp",Top Gun - Maverick (2022)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://cdn2.turboviplay.com/data2/2WqlB40afzMVgN3m3lks/2WqlB40afzMVgN3m3lks.m3u8
+https://github.com/riagusmita182/channel/raw/refs/heads/main/maverick.m3u8
 
 
 
