@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U refresh="1440"
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="Indonesia TV",RTV (V+)
 #EXTVLCOPT:http-referrer=https://visionplus.id
