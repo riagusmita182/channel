@@ -580,10 +580,8 @@ https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/720p/ind
 https://cdn2.turboviplay.com/data1/68064eeebe87b/68064eeebe87b720.m3u8
 
 ======================================== DC MOVIES ==============================================================
-
-
-#EXTINF:-1 type="" group-title="DC MOVIES" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2023/06/film-the-flash-2023-lk21-d21.jpg.webp",The Flash (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 tvg-id="" tvg-name="Red One" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg" group-title="MOVIES 2024", Red One
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/06/Red.One.2024.mp4/tracks-v1a1/mono.m3u8
 
 
 
