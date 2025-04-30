@@ -1,25 +1,26 @@
 #EXTM3U refresh="1440"
 
 #EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",RTV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RTV/sa_dash/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-l.png" group-title="Indonesia TV",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=rtv
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="Indonesia TV",GTV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-l.png" group-title="Indonesia TV",ANTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=antv
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="Indonesia TV",MNCTV (V+)
-#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="NASIONAL",MNC TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="Indonesia TV",RCTI (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_dash/rcti-2.mpd
