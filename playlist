@@ -11,9 +11,14 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RTV/sa_dash/RTV.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
+#EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash/ANTV.mpd
+
+#EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV (D)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="Indonesia TV",MNCTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -96,10 +101,6 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="Indonesia TV",MENTARI TV (IH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1200px-Mentari_TV.svg.png" group-title="Indonesia TV",MENTARI TV (OX)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=mentaritv
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/3pc3BRz.png?v=1.0.0.1" group-title="Indonesia TV",FUN PLANET (IH)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -580,9 +581,3 @@ https://cdn2.turboviplay.com/data1/68064eeebe87b/68064eeebe87b720.m3u8
 ======================================== DC MOVIES ==============================================================
 #EXTINF:-1 tvg-id="" tvg-name="Red One" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg" group-title="MOVIES 2024", Red One
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/06/Red.One.2024.mp4/tracks-v1a1/mono.m3u8
-
-
-
-
-
-=================================================================================================================
