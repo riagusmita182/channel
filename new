@@ -579,27 +579,46 @@ https://storage.dewanonton.online/hls/ac1ce7df-2cda-417b-b9ba-56d165beecd0.mp4/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn7iv.diebutx.com/ownhls/2020/68ea0e5b3c68da8eba6c172dd0039bc9/720p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2015/12/film-x-men-days-of-future-past-2014.jpg" group-title="Marvel Universe", X-Men: Days of Future Past (2014)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://cdn7iv.diebutx.com/ownhls/2020/0c4d719a6dbfd0c9f41a77276c4f5db4/720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/09/zSouWWrySXshPCT4t3UKCQGayyo.jpg" group-title="Marvel Universe",X-Men: Apocalypse (2016)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://cdn7iv.diebutx.com/ownhls/2020/129b9c50fc99d42198e5ca28b37cdc0e/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg" group-title="Marvel Universe",X-Men: Dark Phoenix (2019)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://cdn7iv.diebutx.com/ownhls/2020/ef4996dca8769c16556d93ae4c0f270b/1080p/index.m3u8
+
 ================================================ MOVIE COLLECTION ========================================================
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/fTplI1NCSuEDP4ITLcTps739fcC.jpg" group-title="MOVIE COLLECTION", Harry Potter and the Deathly Hallows Part 2 (2011)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn7iv.diebutx.com/ownhls/2020/8c946c41d5b7cfcf51851ae6d4914ec5/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/maP4MTfPCeVD2FZbKTLUgriOW4R.jpg" group-title="MOVIE COLLECTION", Harry Potter and the Deathly Hallows Part 1 (2010)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn7iv.diebutx.com/ownhls/2020/0afc99d0d8fc80b972f050e1b30b546d/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/bFXys2nhALwDvpkF3dP3Vvdfn8b.jpg" group-title="MOVIE COLLECTION", Harry Potter and The Half Blood Prince (2009)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn7iv.diebutx.com/ownhls/2020/dbcb7db5284561a718a9c1a12cf405e7/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/4YnLxYLHhT4UQ8i9jxAXWy46Xuw.jpg" group-title="MOVIE COLLECTION", Harry Potter and the Order of the Phoenix (2007)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn7iv.diebutx.com/ownhls/2020/c0372dfddcf76d7c1130ba2c3b0fd989/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/6sASqcdrEHXxUhA3nFpjrRecPD2.jpg" group-title="MOVIE COLLECTION", Harry Potter and the Goblet of Fire (2005)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn7iv.diebutx.com/ownhls/2020/8d6652448a338ffaa52327ca626395a0/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/jUFjMoLh8T2CWzHUSjKCojI5SHu.jpg" group-title="MOVIE COLLECTION", Harry Potter and the Prisoner of Azkaban (2004)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn7iv.diebutx.com/ownhls/2020/098a64deb51724abe543d8ca6a3efbc7/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/06/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg" group-title="MOVIE COLLECTION", Harry Potter and the Chamber of Secrets (2002)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn7iv.diebutx.com/ownhls/2020/6199d678f6bb30bd52438d8d0022c4c8/1080p/index.m3u8
 
 =================================================== MOVIES 2023 ===================================================================
