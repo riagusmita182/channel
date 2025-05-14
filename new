@@ -455,6 +455,15 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="Indonesia TV",048.SkySport MotoGP
+https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png" group-title="Indonesia TV",049.SkySport F1
+https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/PremieLeague.png" group-title="Indonesia TV",037.SkySports Premiere League
+https://wahyu1ptv.pages.dev/UKSkySportPL-HD.m3u8
+
 ========================================== Marvel Universe =======================================================================
 
 #EXTINF:-1 group-title="Marvel Universe" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2018/10/film-venom2018-lk21.jpg.webp",Venom (2018)
