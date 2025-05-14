@@ -644,11 +644,31 @@ https://cdn7iv.diebutx.com/ownhls/2020/098a64deb51724abe543d8ca6a3efbc7/1080p/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn7iv.diebutx.com/ownhls/2020/6199d678f6bb30bd52438d8d0022c4c8/1080p/index.m3u8
 
-=================================================== MOVIES 2023 ===================================================================
+=================================================== MOVIES ===================================================================
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg?w=300&ssl=1" group-title="MOVIES", Avatar: The Way of Water
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg?w=300&ssl=1" group-title="MOVIES", Avatar - The Way of Water
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/03/02/task1/5ef4fac246ab9e501c086d63603acea8/720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/10/9Vp8MKqrwRAtvACF7PBwbvdG4dq.jpg" group-title="MOVIES", Jumanji - The Next Level (2019)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://cdn7iv.diebutx.com/ownhls/2020/e2b2249b8db3c25a7db6b0ad3974194e/720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/04/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg" group-title="MOVIES", Jumanji - Welcome to the Jungle (2017)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://cdn7iv.diebutx.com/ownhls/2020/d59d38dff469744740968e8d275b9fba/720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/09/vzWqkXbqs3EEMi3jgFpiRPgFGlG.jpg" group-title="MOVIES",Tomb Raider - The Cradle of Life (2003)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://cdn7iv.diebutx.com/ownhls/2020/4b37ff8932496fbf34922c008cc628f7/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/09/3zrC5tUiR35rTz9stuIxnU1nUS5.jpg" group-title="MOVIES",Tomb Raider (2018)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://cdn7iv.diebutx.com/ownhls/2020/249b4f31689274a7e76daa19049e4854/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/09/m6aodY7SrvlTRiUFkxClaNAIQT.jpg" group-title="MOVIES",Tomb Raider (2001)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://cdn7iv.diebutx.com/ownhls/2020/ee2dfd52d6fe1ab0f06bac84ba43fe23/720p/index.m3u8
 
 =================================================== MOVIES 2024 ================================================================
 
