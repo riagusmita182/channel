@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="SPORTSTARS_ID",Sportstars
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=112
-https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="SPORTSTARS_ID",Sportstars
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="SPORT",Sportstars
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -16,7 +8,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=112
 https://kingtvpremium.my.id/play/pision/index.mpd?id=112
 
-#EXTINF:-1 group-title="SPORTSTARS_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstars 2
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstars 2
 #EXTVLCOPT:http-referrer=https://visionplus.id/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -24,7 +16,7 @@ https://kingtvpremium.my.id/play/pision/index.mpd?id=112
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=113
 https://kingtvpremium.my.id/play/pision/index.mpd?id=113
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/soccer.png" group-title="SPORTSTARS_ID",Soccer Channel ᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/soccer.png" group-title="SPORT",Soccer Channel ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream=inputstream.adaptive
@@ -33,7 +25,7 @@ https://kingtvpremium.my.id/play/pision/index.mpd?id=113
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=115
 https://kingtvpremium.my.id/play/pision/index.mpd?id=115
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/SportTv.png" group-title="SPORTSTARS_ID",SPOTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/SportTv.png" group-title="SPORT",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream=inputstream.adaptive
@@ -42,7 +34,7 @@ https://kingtvpremium.my.id/play/pision/index.mpd?id=115
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=119
 https://kingtvpremium.my.id/play/pision/index.mpd?id=119
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/SportTv2.png" group-title="SPORTSTARS_ID",SPOTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/SportTv2.png" group-title="SPORT",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream=inputstream.adaptive
@@ -51,7 +43,7 @@ https://kingtvpremium.my.id/play/pision/index.mpd?id=119
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=120
 https://kingtvpremium.my.id/play/pision/index.mpd?id=120
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/fight_sports.png" group-title="SPORTSTARS_ID",FIGHT SPORTS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/fight_sports.png" group-title="SPORT",FIGHT SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream=inputstream.adaptive
@@ -60,7 +52,7 @@ https://kingtvpremium.my.id/play/pision/index.mpd?id=120
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=121
 https://kingtvpremium.my.id/play/pision/index.mpd?id=121
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="SPORTSTARS_ID",beIN Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="SPORT",beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream=inputstream.adaptive
@@ -69,7 +61,7 @@ https://kingtvpremium.my.id/play/pision/index.mpd?id=121
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=122
 https://kingtvpremium.my.id/play/pision/index.mpd?id=122
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="SPORTSTARS_ID",beIN Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="SPORT",beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream=inputstream.adaptive
@@ -78,7 +70,7 @@ https://kingtvpremium.my.id/play/pision/index.mpd?id=122
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=123
 https://kingtvpremium.my.id/play/pision/index.mpd?id=123
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="SPORTSTARS_ID",beIN Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="SPORT",beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream=inputstream.adaptive
@@ -87,7 +79,7 @@ https://kingtvpremium.my.id/play/pision/index.mpd?id=123
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=124
 https://kingtvpremium.my.id/play/pision/index.mpd?id=124
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="SPORTSTARS_ID",beIN Sports 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="SPORT",beIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream=inputstream.adaptive
@@ -96,7 +88,7 @@ https://kingtvpremium.my.id/play/pision/index.mpd?id=124
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=125
 https://kingtvpremium.my.id/play/pision/index.mpd?id=125
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="SPORTSTARS_ID",beIN Sports 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="SPORT",beIN Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream=inputstream.adaptive
