@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U refresh="1440" max-conn="10" refresh="24"
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="SPORT",Sportstars
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
@@ -141,7 +141,8 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://lo1.in/it/mtgp.png" group-title="Sports",ESPN LIVE
+http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
 
 
 
