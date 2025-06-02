@@ -42,9 +42,13 @@ https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-#EXTINF:-1 TV" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans-tv%20(1).png group-title="Indonesia TV",TRANSTV (IH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="Indonesia TV",Trans TV 🔵
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="Indonesia TV",TRANS7
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -54,9 +58,13 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png" group-title="Indonesia TV", TRANS7 (IH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="Trans7.my.id" tvg-name="Trans 7" tvg-logo="https://iili.io/JMp3Qls.png" group-title="Indonesia TV",Trans7 🔵
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J72JMfZ/net.png" group-title="Indonesia TV" ,NET TV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -280,17 +288,13 @@ https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="Indonesia TV",ESPN LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="Indonesia TV",048.SkySport MotoGP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="Indonesia TV",SkySport MotoGP
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png" group-title="Indonesia TV",049.SkySport F1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png" group-title="Indonesia TV",SkySport F1
 https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/PremieLeague.png" group-title="Indonesia TV",037.SkySports Premiere League
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/PremieLeague.png" group-title="Indonesia TV",SkySports Premiere League
 https://wahyu1ptv.pages.dev/UKSkySportPL-HD.m3u8
 
 =================================================================================================================
@@ -346,15 +350,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/fight_sports.png" group-title="SPORT",FIGHT SPORTS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=121
-https://kingtvpremium.my.id/play/pision/index.mpd?id=121
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=121&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="FightSports.id" tvg-name="Fight Sports" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="Indonesia TV", Fight Sports
+https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="Indonesia TV",beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -445,8 +447,14 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://lo1.in/it/mtgp.png" group-title="Indonesia TV",ESPN LIVE
-http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mRPZMC2zwT68k6JII0b2tZZHy6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-8d1830.jpg" group-title="Indonesia TV",Premier League
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9353&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="Indonesia TV",TNT SPORTS 1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
