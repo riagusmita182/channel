@@ -600,5 +600,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA",Indosiar VIP
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://streaming.sportsnews.id/p/ch3.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1757081889-0-0-94f33068c415bf0c2de6df874bb52316
