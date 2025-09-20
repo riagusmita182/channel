@@ -488,6 +488,10 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/08/Thunderbolt
 https://cloud.hownetwork.xyz/xxx/NRk7KCQLEmxwYUV5bkczOiYUFhYaG0V2cmQTf3Y/32/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/07/Warfare.2025.mp4/tracks-v1a1/mono.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="", The Fantastic Four: First Steps (2025)
+https://g250.turbosplayer.com/file/72bfa8a7-1424-4614-8226-a58c2a1f9071/master.m3u8
+
 
 
 ===================================== SPORTS ================================================
