@@ -138,6 +138,10 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar.mpd
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
+#EXTINF:-1 group-title="Indonesia TV" tvg-logo="https://i.postimg.cc/1XmPWnXm/ezgif-473fe9d06ac562ff.png",TVRI SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
+
 ================================= KIDS ======================================
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtVjXBlqQAZS3p3ha_x6qwk3EhsaHXjjqgNWYhoCIdyeQkQKBY_Gws6_422fDlJBLL-cLOmgt0vhDmHO15GVDC8EKRAifRFWOhfE24ioM_zbTWtPhG3GGaBOpOocSnKlpCvPPxoXKgVKqqQ34bnUgCr5K0vVbz70zp3XX9Z66tCjxL0fzzdKcyRXM-zBs/s700/MtkMudah.jpg" group-title="Indonesia TV" , Matematika TV
