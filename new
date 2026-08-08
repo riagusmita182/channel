@@ -11,6 +11,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.ibb.co.com/b1tcbgm/rtv.png" group-title="Indonesia TV", RTV 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ31qhO.png" group-title="Indonesia TV", ANTV
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -60,6 +64,14 @@ https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://object-streamo.emonaja.com/img/moji.png" group-title="Indonesia TV", MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-id="auto.nusantara.tv.2" tvg-logo="https://iili.io/2gSbSY7.png" group-title="Indonesia TV",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 ================================= KIDS ======================================
 
@@ -155,23 +167,40 @@ https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PadangTV.id@SD" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="Indonesia TV",PADANG TV 
+http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="Indonesia TV",AL QURAN KAREEM (Makkah live)
+https://aloula-redirect.vercel.app/7/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/3zB0gVk/madinahlive.png" group-title="Indonesia TV", Sunna TV (Madinah live)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
+
 =================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Indonesia TV", SpoTV 🇵🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
- 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Indonesia TV", SpoTV 2 🇵🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTINF:-1 tvg-id="beInSports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Indonesia TV",beIN Sports 3 Indonesia
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e1/MotoGP_logo_%282024%29.svg.png/500px-MotoGP_logo_%282024%29.svg.png" group-title="Indonesia TV", MotoGP 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
 ==============================================================================================================
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports", SpoTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://beetv.my.id/stream/vd.m3u8?ch=spotv
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports", SpoTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://beetv.my.id/stream/vd.m3u8?ch=spotv2
 
 ====================================================================================================================
