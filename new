@@ -38,12 +38,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-id="Trans 7.id"  tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="Indonesia TV", TRANS 7 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://20.detik.com/watch/livestreaming-trans7?smartautoplay=true
 
 
 #EXTINF:-1 tvg-id="Trans TV.id" tvg-logo="https://i.ibb.co.com/k3S01Fh/transtv.png" group-title="Indonesia TV", TRANS TV 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://20.detik.com/watch/livestreaming-transtv?smartautoplay=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8g6gNYB.png" group-title="Indonesia TV", SCTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -174,10 +174,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=120.play
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MotoGP_logo_%282024%29.svg/960px-MotoGP_logo_%282024%29.svg.png" group-title="Indonesia TV", SKY Sport MotoGP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/MotoGP2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MOTOGP HD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-motogp-it.png" group-title="Indonesia TV", IT: SKY SPORT MOTOGP HD
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/136489
