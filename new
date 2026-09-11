@@ -184,6 +184,18 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MOTOGP HD" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-motogp-it.png" group-title="Indonesia TV", IT: SKY SPORT MOTOGP HD
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/136489
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czvDT19.jpeg" tvg-id="itzplay.id" group-title="Indonesia TV", MotoGP Live
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czvDT19.jpeg" tvg-id="itzplay.id" group-title="Indonesia TV", MotoGP  ▎TNT Sports 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905815&extension=ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e1/MotoGP_logo_%282024%29.svg.png/500px-MotoGP_logo_%282024%29.svg.png" group-title="Indonesia TV", MotoGP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
