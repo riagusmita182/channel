@@ -355,15 +355,11 @@ http://013tv.com:8080/F33848/cbd9779b/162503
 #EXTINF:-1 tvg-id="tvOne.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVOne
 https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/8g6gNYB.png",SCTV
-http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacE9Ra0g0dTlhc29keDE1OHU4Vm0zV3MvcU5CUjJCSWZTR1FJRnF2VXEyQQ
-
-#EXTINF:-1 group-title="Nasional" tvg-logo=""https://i.imgur.com/CJajHRL.png",Indosiar
-http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
-
 #EXTINF:-1 group-title="Nasional" tvg-logo=""https://i.imgur.com/CJajHRL.png",Indosiar Digital
 https://filex.me:8443/live/3114654477/5787654467/302264.ts
 
 =============================================================================================
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="Sports", spotv2 my
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163884.m3u8
 
 
